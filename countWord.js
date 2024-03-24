@@ -10,7 +10,7 @@ function wordCount(speech){
     return count;    
 }
 
-var speech = "I   am Junayed Hasan Sakib. I am here to learn programming."
+var speech = "I  am Junayed Hasan Sakib. I am here to learn programming. Let's Begin then."
 var counting = wordCount(speech);
 
 console.log(`The total word is : ${counting}`);
